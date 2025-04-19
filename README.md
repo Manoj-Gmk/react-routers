@@ -26,15 +26,15 @@ JavaScript (ES6+)
 
 ## 📁 Project Setup
 
-Clone the repository
+## 1.Clone the repository
 
 git clone https://github.com/Manoj-Gmk/react-routers.git
 
-Install dependencies for React app
+## 2.Install dependencies for React app
 
 npm install
 
-Start the JSON server (in a new terminal)
+## 3.Start the JSON server (in a new terminal)
 
 In the project directory, run:
 
@@ -42,13 +42,13 @@ npx json-server --watch src/assets/data.json --port 3031
 
 Start the React development server
 
-In the same terminal (or a new terminal tab), run:
+## 4.In the same terminal (or a new terminal tab), run:
 
 npm run dev
 
 After installing dependencies and starting Json server,  Directly strt the React development server there is no need change the directory in this project. 
 
-Open in the browser
+## 5.Open in the browser
 
 Visit: http://localhost:3000
 
@@ -71,6 +71,7 @@ Contact Form for users to fill out with First Name, Email, and other fields
 Job Page displaying job listings with clickable job titles for more information
 
 ## 🙋‍♂️ Author
+
 Name: Manoj
 
 Role: Frontend Developer (Fresher)
